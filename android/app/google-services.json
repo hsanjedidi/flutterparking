@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "473524194218",
+    "project_id": "tunisiapark-7236f",
+    "storage_bucket": "tunisiapark-7236f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473524194218:android:885aed437c82ba8a1bb9d3",
+        "android_client_info": {
+          "package_name": "com.example.flutter_movie_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473524194218-s8htdmmocn3i16c1og3hr1sd7d18dk2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnDApzqq11m0OLmIHw_hi6_ayTq4MSuLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473524194218-s8htdmmocn3i16c1og3hr1sd7d18dk2n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
